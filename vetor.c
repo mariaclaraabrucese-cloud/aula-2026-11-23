@@ -5,9 +5,9 @@ int main() {
     int N = 4; // Colunas
 
     int matriz[3][4] = {
-        {5, 10, 2, 8},
-        {4, 3, 9, 1},
-        {7, 6, 5, 2}
+        {2, 4, 6, 8},
+        {1, 3, 5, 7},
+        {10, 20, 30, 40}
     };
 
     // Vetor para armazenar a soma de cada linha
